@@ -40,5 +40,8 @@ public class GitCliente {
    public void setlicencia(String licencia){
        this.licencia=licencia;
    }
+   public String toString(){
+       return "GitClient|"+"cliente="+cliente+", version="+version+", systemopen="+systemopen+", licencia="+licencia+")";
+   }
     
 }
