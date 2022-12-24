@@ -1,1 +1,2 @@
 # AppGitClient
+El proyecto se basa en el desarrollo de un manual de uso de una herramienta GUI, para ello hemos decidido usar "Lazygit" por lo que durante el transcurso del proyecto veremos como esta herramienta nos facilita aún más la realización de operaciones simples en cuanto al manejo de git como crear nuevas ramas en nuestro proyecto, crear archivos,modificarlos... cosas sencillas que dicha herramienta nos facilitará aún más si cabe.
